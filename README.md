@@ -10,23 +10,26 @@ AtliQo, a major telecom provider, launched 5G services in **May 2022**. What fol
 
 ---
 
-## 📸 Dashboard Snapshots
+## Dashboard Snapshots
 
 ### 1. General Overview — Revenue, Active Users & Unsubscriptions
-![General Detail Dashboard](dashboard_general.png)
+<img width="1473" height="652" alt="image" src="https://github.com/user-attachments/assets/72fbc783-2da9-48a9-8116-272094d53310" />
+
 > KPI cards showing ₹3,187.36 Cr total revenue, 1,617 Lakh active users, and 126 Lakh unsubscribed users — with city-wise and monthly breakdowns across pre/post 5G periods.
 
 ### 2. Market Share Analysis — AtliQo vs. Competitors
-![Market Detail Dashboard](dashboard_market.png)
+<img width="1472" height="649" alt="image" src="https://github.com/user-attachments/assets/eabf982c-8e7e-4677-9876-435fade64773" />
+
 > Side-by-side market share comparison before and after 5G, across all cities and months, benchmarked against Britel, DADAFONE, PIO, and Others.
 
 ### 3. Plan Revenue Deep Dive — Before & After 5G
-![Plan Detail Dashboard](dashboard_plan.png)
+<img width="1472" height="648" alt="image" src="https://github.com/user-attachments/assets/1493459d-1e21-4116-baee-a3f520cab3e2" />
+
 > Stream chart showing plan revenue trends from Jan–Sep 2022, with detailed plan-level tables comparing total revenue before (₹882.37 Cr) vs. after 5G (₹1,068.38 Cr), broken down by city.
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 | # | Challenge |
 |---|-----------|
@@ -36,9 +39,9 @@ AtliQo, a major telecom provider, launched 5G services in **May 2022**. What fol
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
-### 📉 What Went Wrong?
+### What Went Wrong?
 
 **1. Pricing Was Too High**
 5G plan prices were not competitive, causing a significant portion of customers to reconsider their subscriptions.
